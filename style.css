@@ -39,6 +39,9 @@ body {
   font-size: 8vmin;
   color: #b0413e;
   background-color: #ffffc7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 #reset-btn,
 #newgame {
